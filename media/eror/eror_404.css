@@ -1,0 +1,32 @@
+*{
+    color: azure;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-image: url(media/background_2.png);
+    background-size: auto;
+    /*margin-left: 5px;*/
+}
+
+.link{
+    text-decoration: none;
+    transition: 0.5s;
+    color: rgb(175, 236, 247);
+}
+
+.link:hover{
+    transition: 1s;
+    color: rgb(0, 124, 146);
+}
+
+.big_text{
+    font-size: 100px;
+}
+
+.n_text{
+    margin-left: 5px;
+    font-size: 50px;
+}
